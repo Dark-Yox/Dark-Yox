@@ -1,0 +1,2 @@
+- Hi, I’m @Dark-Yox
+- I’m interested in .NET / C#
