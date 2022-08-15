@@ -1,2 +1,2 @@
 - Hi, I’m @Dark-Yox
-- I’m interested in .NET / C#
+- And I don't care anymore
